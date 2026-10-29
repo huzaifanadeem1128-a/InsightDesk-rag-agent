@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "question": "What is the company name?",
+      "ground_truth": "NexaTech Solutions."
+    },
+    {
+      "question": "What are the standard working hours?",
+      "ground_truth": "9 AM to 6 PM, Monday through Friday, with a one-hour lunch break."
+    },
+    {
+      "question": "How many annual leave days do employees get?",
+      "ground_truth": "20 paid days per calendar year, after completing probation."
+    },
+    {
+      "question": "How many sick leave days are available?",
+      "ground_truth": "Up to 10 paid days per year."
+    },
+    {
+      "question": "What is the probation period?",
+      "ground_truth": "A 3-month probation period."
+    },
+    {
+      "question": "Can employees work remotely?",
+      "ground_truth": "The handbook covers remote work arrangements; details are in the policy."
+    },
+    {
+      "question": "How do I contact the IT Help Desk?",
+      "ground_truth": "Provide your name, device, a short description of the problem, any error messages, what you were doing when it happened, and steps you already tried. Attach a screenshot if helpful, after removing confidential data."
+    },
+    {
+      "question": "What should I do if I suspect a security issue?",
+      "ground_truth": "Report possible account compromise immediately, change passwords, and let IT handle investigations."
+    },
+    {
+      "question": "How do I troubleshoot Wi-Fi problems?",
+      "ground_truth": "Ensure you're connected to the NexaTech-Employees network, toggle Wi-Fi, restart the device, and contact IT if it still fails."
+    },
+    {
+      "question": "Can I install any software on my work device?",
+      "ground_truth": "Only approved software should be installed. Request needed applications through the IT Help Desk."
+    },
+    {
+      "question": "How do I set up email on my device?",
+      "ground_truth": "Use the approved email app, check the internet connection, restart the app, and report issues with device details."
+    },
+    {
+      "question": "What is the resignation process?",
+      "ground_truth": "Submit a resignation, serve the required notice period, and follow up with your manager and HR."
+    }
+  ]
+}

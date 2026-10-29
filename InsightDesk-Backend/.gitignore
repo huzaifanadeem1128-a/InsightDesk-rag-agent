@@ -1,0 +1,37 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment secrets
+.env
+.env.local
+*.env
+
+# Database
+Database.db
+*.db
+*.sqlite3
+
+# Vector store
+chroma_db/
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Pytest
+.pytest_cache/
+
+# Pytest
+.pytest_cache/
